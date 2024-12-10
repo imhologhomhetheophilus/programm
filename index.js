@@ -1,1 +1,1 @@
-initializing javascript
+alert("Welcome To my abond");
