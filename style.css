@@ -1,11 +1,18 @@
 * {
-  padding: 5px;
-  margin: 5px;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 body {
   background-color: red;
   user-select: none;
+  background-image: url(/img/1720871229338.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-blend-mode: darken;
 }
 footer {
   background: #000;
